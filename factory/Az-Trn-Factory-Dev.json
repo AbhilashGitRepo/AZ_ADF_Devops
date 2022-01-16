@@ -1,0 +1,9 @@
+{
+	"name": "Az-Trn-Factory-Dev",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d084bb6d-433f-40f4-8320-13ca3454783c",
+		"tenantId": "4008c079-45a2-4a58-b2c3-35c9cd94694d"
+	}
+}
