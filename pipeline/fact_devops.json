@@ -1,0 +1,17 @@
+{
+	"name": "fact_devops",
+	"properties": {
+		"activities": [
+			{
+				"name": "TestWait",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			}
+		],
+		"annotations": []
+	}
+}
